@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Varma
 
-<!--
-**varma868859/varma868859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Python Developer | Aspiring AI Engineer
 
-Here are some ideas to get you started:
+💻 I enjoy building real-world applications using Python, SQL, Web Scraping, and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently working on:
+- AI-Powered Web Intelligence & Automation Platform
+- Student Management System
+- AI Resume Analyzer
+
+### 🛠️ Skills
+
+Python | SQL | MySQL | PostgreSQL | Flask | Pandas | Web Scraping | Playwright | FastAPI | Git | GitHub
+
+### 📌 Featured Projects
+
+🔹 **Student Management System**  
+A web application built using Python and Flask for managing student information.
+
+🔹 **AI Resume Analyzer**  
+An AI-based application that analyzes resumes and provides useful insights.
+
+🔹 **AI Web Intelligence Platform**  
+A platform for web scraping, automation, data cleaning, AI analysis, dashboards, and automated reports.
+
+### 📫 Connect With Me
+
+📧 Email: Add your email here
+
+⭐ Thank you for visiting my GitHub profile!
