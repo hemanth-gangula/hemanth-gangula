@@ -1,48 +1,49 @@
-````markdown
 <h1 align="center">Hi 👋, I'm Gangula Hemanth Varma</h1>
 
 <h3 align="center">
-Data Analyst | Python | SQL | Excel | Power BI
+Data Analyst | Python Developer | Aspiring AI Engineer
 </h3>
 
 <p align="center">
-I build practical data analytics, business intelligence, automation, and AI-powered applications using Python, SQL, Excel, and modern data tools.
+  <a href="https://github.com/varma868859">
+    <img src="https://img.shields.io/github/followers/varma868859?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/varma868859?tab=repositories">
+    <img src="https://img.shields.io/github/stars/varma868859?label=Stars&style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/varma868859">
-  <img src="https://img.shields.io/github/followers/varma868859?label=Followers&style=for-the-badge" />
-</a>
-<a href="https://github.com/varma868859?tab=repositories">
-  <img src="https://img.shields.io/github/stars/varma868859?style=for-the-badge" />
-</a>
+💻 Building practical solutions in Data Analytics, Business Intelligence,
+Python, Automation, Web Scraping, and AI
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 📊 Interested in Data Analytics and Business Intelligence
-- 🐍 Building data solutions with Python and Pandas
-- 🗄️ Working with SQL, MySQL, and PostgreSQL
-- 📈 Creating dashboards and business insights
-- 🧹 Working on Excel data cleaning and automation
-- 🤖 Exploring AI-powered data applications
-- 🔎 Interested in customer, sales, and business analytics
-- 🚀 Continuously building practical portfolio projects
+- 📊 Interested in **Data Analytics and Business Intelligence**
+- 🐍 Building data solutions using **Python and Pandas**
+- 🗄️ Working with **SQL, MySQL, and PostgreSQL**
+- 📈 Creating dashboards using **Excel, Power BI, and Tableau**
+- 🤖 Exploring **AI-powered applications and automation**
+- 🌐 Working with **Web Scraping, APIs, and Playwright**
+- 🚀 Building real-world projects to solve practical business problems
 
 ---
 
-## 🚀 Currently Building
+## 🚀 Currently Working On
 
-- 📊 **E-Commerce Analytics & Business Intelligence Dashboard**
-- 🤖 **AI-Powered Data Intelligence & Automation Platform**
+- 🤖 AI-Powered Web Intelligence & Automation Platform
+- 📊 AI-Powered Excel Intelligence & Automation Platform
+- 🎓 Student Management System
+- 📄 AI Resume Analyzer
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### 📊 Data Analytics & Business Intelligence
+## 📊 Data Analytics
 
 <p align="center">
 
@@ -58,7 +59,9 @@ I build practical data analytics, business intelligence, automation, and AI-powe
 
 </p>
 
-### 🐍 Python & Data Libraries
+---
+
+## 🐍 Python & Data Libraries
 
 <p align="center">
 
@@ -72,7 +75,9 @@ I build practical data analytics, business intelligence, automation, and AI-powe
 
 </p>
 
-### 🗄️ Databases
+---
+
+## 🗄️ Databases
 
 <p align="center">
 
@@ -82,7 +87,9 @@ I build practical data analytics, business intelligence, automation, and AI-powe
 
 </p>
 
-### 🌐 Web, APIs & Automation
+---
+
+## 🌐 Web & Automation
 
 <p align="center">
 
@@ -92,11 +99,15 @@ I build practical data analytics, business intelligence, automation, and AI-powe
 
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Web%20Scraping-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Automation-6C63FF?style=for-the-badge&logo=robotframework&logoColor=white" />
 
 </p>
 
-### 🔧 Tools
+---
+
+## 🔧 Tools
 
 <p align="center">
 
@@ -106,108 +117,107 @@ I build practical data analytics, business intelligence, automation, and AI-powe
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 📊 Retail Sales & Customer Analytics
+## 🎓 Student Management System
 
-End-to-end retail analytics project focused on understanding sales performance, customer behavior, and business trends.
+A Python and Flask-based web application for managing student information, attendance, grades, reports, and data exports.
 
-**Key Areas:**
-- 📈 Sales and revenue analysis
-- 👥 Customer segmentation
-- 🔄 RFM analysis
-- 📅 Cohort analysis
-- 🗄️ SQL analytics
-- 🐍 Python and Pandas
-- 📊 Business insights and reporting
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
 
-**Tech Stack:** Python • Pandas • SQL • Flask
-
----
-
-### 🤖 Data Intelligence Platform
-
-AI-powered Excel intelligence and automation platform designed for data cleaning, analysis, visualization, and automated business insights.
-
-**Key Features:**
-- 📂 Excel data processing
-- 🧹 Data cleaning and transformation
-- 🔍 Duplicate detection and removal
-- 📊 Data quality analysis
-- 📈 Dashboard generation
-- 🤖 AI-powered business insights
-- 💬 Natural-language data commands
-- ⚙️ Automated Excel processing
-
-**Tech Stack:** Python • Pandas • Excel • SQL • Streamlit • AI
+🔗 **Repository:**  
+https://github.com/varma868859/student-management-system
 
 ---
 
-### 📄 AI Resume Analyzer
+## 📄 AI Resume Analyzer
 
-AI-powered resume analysis and career recommendation platform designed to extract useful information from resumes and generate personalized insights.
+An AI-powered application that analyzes resumes and provides personalized career insights and recommendations.
 
-**Key Features:**
-- 📄 Resume analysis
-- 🔎 Skill extraction
-- 💼 Career recommendations
-- 🤖 AI-generated insights
-- 🗄️ PostgreSQL integration
-- 🌐 Web-based interface
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
 
-**Tech Stack:** Python • Flask • Gemini AI • PostgreSQL
-
----
-
-### 🎓 Student Management System
-
-Python and MySQL-based application for managing student records and academic information.
-
-**Key Features:**
-- 👨‍🎓 Student management
-- 📅 Attendance tracking
-- 📝 Marks management
-- 🏆 Grade generation
-- 📄 Student reports
-- 📤 CSV export
-- 🗄️ MySQL database integration
-
-**Tech Stack:** Python • MySQL • Flask
+🔗 **Repository:**  
+https://github.com/varma868859/AI-Resume-Analyzer
 
 ---
 
-## 📚 What I'm Learning
+## 📊 Retail Sales & Customer Analytics
 
-- 📊 Advanced Data Analytics
-- 🧮 Advanced SQL
-- 📈 Power BI & DAX
-- 🔄 Power Query
-- 🐍 Advanced Python for Data Analysis
-- 🤖 Generative AI for Data Applications
-- ☁️ Cloud-based Data Solutions
+An end-to-end analytics project focused on retail sales performance, customer segmentation, RFM analysis, cohort analysis, SQL analytics, and business insights.
 
----
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/RFM%20Analysis-4CAF50?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+</p>
 
-## 🎯 Areas of Interest
-
-```text
-Data Analytics
-Business Intelligence
-Python Automation
-SQL Analytics
-Customer Analytics
-Sales Analytics
-Data Visualization
-AI-powered Data Applications
-````
+🔗 **Repository:**  
+https://github.com/varma868859/retail-sales-customer-analytics
 
 ---
 
-## 📈 GitHub Statistics
+## 🤖 AI Web Intelligence Platform
+
+An AI-powered platform for web scraping, Playwright automation, API data collection, data cleaning, PostgreSQL analytics, dashboards, AI analysis, and automated reporting.
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+</p>
+
+🔗 **Repository:**  
+https://github.com/varma868859/DATA-INTELLIGENCE-PLATFORM
+
+---
+
+# 📈 Data Analytics Focus
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Cleaning-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Dashboard%20Development-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SQL%20Analytics-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Customer%20Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -223,30 +233,34 @@ AI-powered Data Applications
 
 ---
 
-## 📊 GitHub Activity
+# 📌 Career Interests
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varma868859&theme=tokyonight&hide_border=true" />
+📊 Data Analyst &nbsp; • &nbsp;
+💼 Business Intelligence &nbsp; • &nbsp;
+🐍 Python Developer &nbsp; • &nbsp;
+🤖 AI Engineer &nbsp; • &nbsp;
+📈 Data Visualization
 
 </p>
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/hemant-gangula-8461213a">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:gangulahemanth9@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/varma868859">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
@@ -254,6 +268,7 @@ AI-powered Data Applications
 ---
 
 <p align="center">
+
 ⭐ Thanks for visiting my GitHub profile!
+
 </p>
-```
